@@ -1,21 +1,42 @@
 <h1>Hi, I'm Seinjon! <a href="https://www.linkedin.com/in/seinjontolbert">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/seinjontolbert">Cloud Architect</a></h1>
 
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>Linux Projects</b>
+  - [Linux Project 1](https://github.com/SEINJON/1)
+  - [Linux Project 2](https://github.com/Seinjon/2)
+  - [Linux Project 3](https://github.com/Seinjon/2)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Project 1](https://github.com/Seinjon/2)
+  - [Python Project 2](https://github.com/Seinjon/2)
+  - [Python Project 3](https://github.com/Seinjon/2)
 
-<h2>📺 AWS Projects</h2>
+<h2>📺 AWS Projects:</h2>
+- [AWS Project 1](https://github.com/Seinjon/2)
+- [AWS Project 2](https://github.com/Seinjon/2)
+- [AWS Project 3](https://github.com/Seinjon/2)
+- [AWS Project 4](https://github.com/Seinjon/2)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>📺 Azure Projects:</h2>
+- [Azure Project 1](https://github.com/Seinjon/2)
+- [Azure Project 2](https://github.com/Seinjon/2)
+- [Azure Project 3](https://github.com/Seinjon/2)
+- [Azure Project 4](https://github.com/Seinjon/2)
 
-<h2>📺 Azure Projects</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certifications:</h2>
+
+- <b>AWS Solutions Architect - Professsional</b> 
+- <b>AWS Security Specialty</b> 
+- <b>AZ104: Microsoft Azure Administrator</b>
+- <b>AZ500:  Azure Security Engineer - Associate </b>
+- <b>AZ900: Azure Fundamentals Sample Questions</b>
+
+- <b>CISCO CCNA</b>
+- <b>Comptia Pentest+</b>
+- <b>Comptia Security+</b>
+- <b>ISC2: Certified in Cybersecurity</b>
 
 <h2> 🤳 Connect with me:</h2>
 
