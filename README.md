@@ -12,19 +12,28 @@
   - [Python Project 2](https://github.com/Seinjon/2)
   - [Python Project 3](https://github.com/Seinjon/2)
 
-<h2>📺 AWS Projects:</h2>
-- [AWS Project 1](https://github.com/Seinjon/2)
-- [AWS Project 2](https://github.com/Seinjon/2)
-- [AWS Project 3](https://github.com/Seinjon/2)
-- [AWS Project 4](https://github.com/Seinjon/2)
+<h2>👨‍💻 AWS Projects:</h2>
 
-<h2>📺 Azure Projects:</h2>
-- [Azure Project 1](https://github.com/Seinjon/2)
-- [Azure Project 2](https://github.com/Seinjon/2)
-- [Azure Project 3](https://github.com/Seinjon/2)
-- [Azure Project 4](https://github.com/Seinjon/2)
+- <b>Linux Projects</b>
+  - [AWS Project 1](https://github.com/SEINJON/1)
+  - [AWS Project 2](https://github.com/Seinjon/2)
+  - [AWS Project 3](https://github.com/Seinjon/2)
+- <b>Python</b>
+  - [Python Project 1](https://github.com/Seinjon/2)
+  - [Python Project 2](https://github.com/Seinjon/2)
+  - [Python Project 3](https://github.com/Seinjon/2)
+  
+  <h2>👨‍💻 Azure Projects:</h2>
 
-
+- <b>Linux Projects</b>
+  - [Azure Project 1](https://github.com/SEINJON/1)
+  - [Azure Project 2](https://github.com/Seinjon/2)
+  - [Azure Project 3](https://github.com/Seinjon/2)
+- <b>Python</b>
+  - [Python Project 1](https://github.com/Seinjon/2)
+  - [Python Project 2](https://github.com/Seinjon/2)
+  - [Python Project 3](https://github.com/Seinjon/2)
+  
 <h2> Certifications:</h2>
 
 - <b>AWS Solutions Architect - Professsional</b> 
