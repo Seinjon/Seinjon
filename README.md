@@ -23,7 +23,7 @@
   - [Python Project 2](https://github.com/Seinjon/2)
   - [Python Project 3](https://github.com/Seinjon/2)
   
-  <h2>👨‍💻 Azure Projects:</h2>
+<h2>👨‍💻 Azure Projects:</h2>
 
 - <b>Linux Projects</b>
   - [Azure Project 1](https://github.com/SEINJON/1)
